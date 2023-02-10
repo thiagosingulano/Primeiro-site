@@ -17,20 +17,7 @@ h1 {
     padding-top: 100px;
 }
 
-.Banner-meio {
-    background-color: mediumvioletred;
-    padding: 5px;
-    height: 200px;
-    width: 200px;  
-}
 
-.Banner-baixo {
-    background-color: tomato;
-    padding: 5px;
-    height: 200px;
-    width: 200px;
-    
-}
 
 #nuvem-cima {
     position: absolute;
@@ -43,5 +30,9 @@ h1 {
     left: 300px;
     bottom: 300px;
 
+}
+
+.sobre-nos {
+    position: relative;
 }
     
